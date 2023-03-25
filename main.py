@@ -6,7 +6,7 @@ print("Welcome ismail murat")
 
 ismailHesap = {
 'Name': 'ismail murat',
-'ID': '20091000055',
+'ID': '2009473892678',
 'password': 9653,
 'money1': 1000
 }
